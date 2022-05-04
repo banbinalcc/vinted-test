@@ -1,12 +1,8 @@
 {
-    "token": "OTcwNjQ4OTc0NDQyNzY2MzQ2.Ym_BTQ.5xE6YlxKfpPFtPmY5X3HjTgdve4",
+    "token": "",
     "prefix": "$",
     "status": "Dev by 2$py#6495",
     "suburl": {
-        "https://discord.com/api/webhooks/971156197782716446/mV3dbsxHQD7iSjE5a46sosnfH1s9PqPxP9duOdJHYtgw6q20-3lJch_GX9sY2U47wDVo": {
-            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&status[]=2&status[]=1&status[]=6&price_to=15&currency=EUR&search_id=4286226388&order=newest_first&catalog[]=257&brand_id[]=50563",
-            "salon": "aos"
-        }
     },
     "embed-color-text": "YAML",
     "embed-color": 16777215,
